@@ -31,11 +31,14 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
     return V, pi
 ```
 ### OUTPUT:
-![OUTPUT](1.png)
+##![image](https://github.com/user-attachments/assets/7d2f5c2c-f7a8-4a09-abc1-73b51282d092)
 
-![OUTPUT](2.png)
 
-![OUTPUT](3.png)
+##optimal value function
+![image](https://github.com/user-attachments/assets/6e57ce54-464a-47ac-afc2-4e87475a4db1)
+##success rate for the optimal policy.
+![image](https://github.com/user-attachments/assets/9a6091ea-06cf-4e01-84d3-eec4bac48441)
+
 
 ## RESULT:
 Thus, a Python program is developed to find the optimal policy for the given MDP using the value iteration algorithm.
